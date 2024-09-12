@@ -47,7 +47,7 @@ void triangle(Vec2i t0, Vec2i t1, Vec2i t2, TGAImage &image, TGAColor color)
         //计算下半部分
         if(i < t1.y)
         {
-            
+            int t = 0;
         }
 
 
